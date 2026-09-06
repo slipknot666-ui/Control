@@ -1,3 +1,4 @@
+export { AnalyticsView } from './AnalyticsView'
 export { MetricCard } from './MetricCard'
 export { TransactionForm } from './TransactionForm'
 export { TransactionList } from './TransactionList'
