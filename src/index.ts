@@ -1,0 +1,5 @@
+export * from './domain'
+export * from './infrastructure'
+export * from './use-cases'
+export * from './presentation'
+export { getTransactions, addTransaction, calculateTotals } from './compositionRoot'
